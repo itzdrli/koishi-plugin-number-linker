@@ -4,10 +4,10 @@
 
 快速将数字转换为对应的链接
 
-比如这样:
+比如这样:  
 ![J1UOyJI.md.png](https://iili.io/J1UOyJI.md.png)
 
-或者这样:
+或者这样:  
 ![J1UOLxa.md.png](https://iili.io/J1UOLxa.md.png)
 
 ## 安装配置
